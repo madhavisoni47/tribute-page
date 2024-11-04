@@ -1,0 +1,29 @@
+body{
+    background: #ebe8e8;
+    font-family: sans-serif;
+    display:block;
+    text-align:center;
+  }
+  h1 p{
+    text-align:center;
+  }
+  
+  #img-div {
+    
+    min-width: 600px;
+    margin: 20px;
+    background-color: white;
+    padding: 0px 30px;
+  }
+  
+  img{
+    display:block;
+  
+  }
+  
+  #image {
+    height: auto;
+    max-width:100%;
+    margin: 0 auto;
+    
+  }
